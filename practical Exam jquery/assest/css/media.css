@@ -1,0 +1,9 @@
+@media(min-width:768px){
+
+    .fa-bars-staggered{
+          display: none;
+    }
+    .list{
+        display:flex;
+    }
+}
